@@ -5,10 +5,6 @@ import About from "./About";
 import Post from "./UserPost";
 import ButtonNavigation from "./ButtonNavigation";
 
-
-
-
-
 function App() {
   return (
     <Router>
