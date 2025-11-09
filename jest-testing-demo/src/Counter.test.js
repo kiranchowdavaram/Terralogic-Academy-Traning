@@ -28,4 +28,3 @@ test("decrements count when decrement button is clicked", () => {
   const countText = screen.getByTestId("count-value");
   expect(countText).toHaveTextContent("Count: -1");
 });
-
